@@ -49,7 +49,7 @@ If you want to search & filters the complete database of [.WORLD one word domain
 | abkhazian.world  | available | 78       | 1%     | 9      |                               |                  |                  |
 | ablated.world    | available | 52       | 2%     | 7      |                               |                  |                  |
 | ablative.world   | available | 68       | 3%     | 8      |                               |                  |                  |
-| able.world       | resell    | 80       | 26%    | 4      | DNSPod, Inc.                  | 11/06/2020 19:00 | 11/06/2026 19:00 |
+| able.world       | resell    | 80       | 25%    | 4      | DNSPod, Inc.                  | 11/06/2020 19:00 | 11/06/2026 19:00 |
 | abnaki.world     | available | 68       | 2%     | 6      |                               |                  |                  |
 
 <p align="center">
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.WORLD one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
