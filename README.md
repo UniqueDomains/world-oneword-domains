@@ -1,22 +1,22 @@
-# Available .WORLD One-Word Domains (5,622,104)
+# Available .WORLD One-Word Domains (6,871)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C860%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C104%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C882%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C871%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .world one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .world one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 6,860-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,104 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 6,860 rows · **Live catalog:** 5,622,104 domains
+**Public extract:** 6,882 rows · **Live catalog:** 6,871 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/world`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WORLD one-word domain
 
 ### Files
 
-- `world.csv` — public CSV extract (6,860 rows)
-- `world.json` — public JSON extract (6,860 rows)
+- `world.csv` — public CSV extract (6,882 rows)
+- `world.json` — public JSON extract (6,882 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -65,11 +65,11 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | trinity.world    | available | $5.99     | $57.99        | 72             | 25     | 7      | name.com                                            |
-| alltime.world    | resell    | $5.99     | $57.99        | 72             | 13     | 8      | Spaceship, Inc.                                     |
+| alltime.world    | resell    | $5.99     | $57.99        | 72             | 12     | 8      | Spaceship, Inc.                                     |
 | electric.world   | premium   | $250      | $250          | 86             | 32     | 8      | name.com                                            |
 | coordinate.world | available | $5.99     | $57.99        | 108            | 18     | 10     | name.com                                            |
 | global.world     | resell    | —         | —             | 108            | 99     | 6      | NameCheap, Inc.                                     |
-| fine.world       | premium   | $500      | $500          | 80             | 30     | 4      | name.com                                            |
+| fine.world       | premium   | $500      | $500          | 80             | 29     | 4      | name.com                                            |
 | rectify.world    | available | $5.99     | $57.99        | 78             | 17     | 7      | name.com                                            |
 | lively.world     | resell    | —         | —             | 70             | 98     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | political.world  | premium   | $42.90    | $42.90        | 80             | 23     | 9      | namecheap                                           |
@@ -82,7 +82,7 @@ print(df.head())
 | damascus.world   | available | $5.99     | —             | 70             | 13     | 8      | name.com                                            |
 | march.world      | resell    | —         | —             | 70             | 80     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | economic.world   | premium   | $82.50    | $82.50        | 70             | 12     | 8      | name.com                                            |
-| thong.world      | available | $5.99     | —             | 64             | 13     | 5      | name.com                                            |
+| bland.world      | available | $5.99     | —             | 54             | 13     | 5      | name.com                                            |
 | checkout.world   | resell    | —         | —             | 68             | 79     | 9      | Sav.com, LLC - 8                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,860-row public sample | 5,622,104 live domains                           |
+| 6,882-row public sample | 6,871 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
