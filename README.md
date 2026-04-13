@@ -1,10 +1,10 @@
-# Available .WORLD One-Word Domains (6,871)
+# Available .WORLD One-Word Domains (6,885)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C892%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C871%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C893%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C885%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .world one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 6,892 rows · **Live catalog:** 6,871 domains
+**Public extract:** 6,893 rows · **Live catalog:** 6,885 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/world`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WORLD one-word domain
 
 ### Files
 
-- `world.csv` — public CSV extract (6,892 rows)
-- `world.json` — public JSON extract (6,892 rows)
+- `world.csv` — public CSV extract (6,893 rows)
+- `world.json` — public JSON extract (6,893 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -76,13 +76,13 @@ print(df.head())
 | alamode.world    | available | $5.99     | $57.99        | 96             | 13     | 9      | name.com                                            |
 | kick.world       | resell    | —         | —             | 98             | 80     | 4      | DNSPod, Inc.                                        |
 | almond.world     | premium   | $118.80   | $118.80       | 68             | 19     | 6      | namesilo                                            |
-| easily.world     | available | $5.99     | $57.99        | 74             | 13     | 6      | name.com                                            |
+| damascus.world   | available | $5.99     | —             | 70             | 13     | 8      | name.com                                            |
 | march.world      | resell    | —         | —             | 70             | 80     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | developing.world | premium   | $42.90    | $42.90        | 74             | 12     | 10     | namecheap                                           |
-| damascus.world   | available | $5.99     | —             | 70             | 13     | 8      | name.com                                            |
+| absent.world     | available | $5.99     | $57.99        | 102            | 12     | 6      | name.com                                            |
 | checkout.world   | resell    | —         | —             | 68             | 79     | 9      | Sav.com, LLC - 8                                    |
 | economic.world   | premium   | $82.50    | $82.50        | 70             | 12     | 8      | name.com                                            |
-| absent.world     | available | $5.99     | $57.99        | 102            | 12     | 6      | name.com                                            |
+| deviate.world    | available | $2.99     | $57.99        | 84             | 12     | 7      | name.com                                            |
 | paddle.world     | resell    | —         | —             | 86             | 78     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,892-row public sample | 6,871 live domains                               |
+| 6,893-row public sample | 6,885 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
