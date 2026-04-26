@@ -1,22 +1,22 @@
-# Available .WORLD One-Word Domains (6,885)
+# Available .WORLD One-Word Domains (9,051)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-6%2C893%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C885%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C051%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .world one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .world one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,051 domains** on the canonical page below.
 
-**Public extract:** 6,893 rows · **Live catalog:** 6,885 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,051 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/world`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .WORLD one-word domain
 
 ### Files
 
-- `world.csv` — public CSV extract (6,893 rows)
-- `world.json` — public JSON extract (6,893 rows)
+- `world.csv` — public CSV extract (1,000 rows)
+- `world.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| trinity.world    | available | $5.99     | $57.99        | 72             | 25     | 7      | name.com                                            |
-| alltime.world    | resell    | $5.99     | $57.99        | 72             | 12     | 8      | Spaceship, Inc.                                     |
-| electric.world   | premium   | $250      | $250          | 86             | 32     | 8      | name.com                                            |
-| coordinate.world | available | $5.99     | $57.99        | 108            | 19     | 10     | name.com                                            |
-| global.world     | resell    | —         | —             | 108            | 99     | 6      | NameCheap, Inc.                                     |
-| fine.world       | premium   | $500      | $500          | 80             | 29     | 4      | name.com                                            |
-| rectify.world    | available | $5.99     | $57.99        | 78             | 18     | 7      | name.com                                            |
-| authentic.world  | resell    | —         | —             | 76             | 83     | 9      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| political.world  | premium   | $42.90    | $42.90        | 80             | 23     | 9      | namecheap                                           |
-| alamode.world    | available | $5.99     | $57.99        | 96             | 13     | 9      | name.com                                            |
-| kick.world       | resell    | —         | —             | 98             | 80     | 4      | DNSPod, Inc.                                        |
-| almond.world     | premium   | $118.80   | $118.80       | 68             | 19     | 6      | namesilo                                            |
-| damascus.world   | available | $5.99     | —             | 70             | 13     | 8      | name.com                                            |
-| march.world      | resell    | —         | —             | 70             | 80     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| developing.world | premium   | $42.90    | $42.90        | 74             | 12     | 10     | namecheap                                           |
-| absent.world     | available | $5.99     | $57.99        | 102            | 12     | 6      | name.com                                            |
-| checkout.world   | resell    | —         | —             | 68             | 79     | 9      | Sav.com, LLC - 8                                    |
-| economic.world   | premium   | $82.50    | $82.50        | 70             | 12     | 8      | name.com                                            |
-| deviate.world    | available | $2.99     | $57.99        | 84             | 12     | 7      | name.com                                            |
-| paddle.world     | resell    | —         | —             | 86             | 78     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| makes.world    | available | $5.99     | —             | 66             | 17     | 5      | name.com                                            |
+| easy.world     | resell    | —         | —             | 84             | 68     | 4      | Porkbun LLC                                         |
+| Jim.world      | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap                                           |
+| types.world    | available | $5.99     | —             | 54             | 14     | 5      | name.com                                            |
+| tech.world     | resell    | —         | —             | 86             | 48     | 4      | Porkbun LLC                                         |
+| has.world      | premium   | $46.20    | $46.20        | 60             | 26     | 3      | namecheap                                           |
+| proofs.world   | available | $5.99     | —             | 55             | 13     | 6      | name.com                                            |
+| lab.world      | resell    | —         | —             | 78             | 46     | 3      | Porkbun LLC                                         |
+| loans.world    | premium   | $242      | $242          | 58             | 24     | 5      | namesilo                                            |
+| forces.world   | available | $5.99     | —             | 82             | 12     | 6      | name.com                                            |
+| hey.world      | resell    | —         | —             | 68             | 46     | 3      | Porkbun LLC                                         |
+| highend.world  | premium   | $123.75   | —             | 72             | 17     | 8      | name.com                                            |
+| coats.world    | available | $5.99     | —             | 68             | 12     | 5      | name.com                                            |
+| project.world  | resell    | —         | —             | 82             | 43     | 7      | Porkbun LLC                                         |
+| kicks.world    | premium   | $82.50    | —             | 77             | 15     | 5      | name.com                                            |
+| supports.world | available | $5.99     | —             | 64             | 12     | 8      | name.com                                            |
+| job.world      | resell    | —         | —             | 76             | 40     | 3      | Porkbun LLC                                         |
+| coaches.world  | premium   | $118.80   | $118.80       | 56             | 15     | 7      | namesilo                                            |
+| flips.world    | available | $4.49     | $41.49        | 52             | 12     | 5      | namesilo                                            |
+| matcha.world   | resell    | —         | —             | 86             | 39     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 6,893-row public sample | 6,885 live domains                               |
+| 1,000-row public sample | 9,051 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
