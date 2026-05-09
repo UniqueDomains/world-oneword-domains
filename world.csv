@@ -451,7 +451,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2c5997d4-098c-4d4e-8b21-99b9078f8a97,types.world,available,5.99,,54,14,5,name.com,,
 2c6560ca-11b1-4d8e-84ff-667f8d5fb519,tech.world,resell,,,86,48,4,Porkbun LLC,28/03/2016 22:30,28/03/2027 22:30
 2c740edc-5e0a-4956-b2cb-0e4453727820,planes.world,resell,,,67,13,6,"Sav.com, LLC - 19",30/07/2025 15:15,30/07/2026 15:15
-2c7cc511-6625-407b-adeb-0bae8fe85793,succeed.world,resell,,,88,15,7,"Sav.com, LLC - 21",14/02/2026 15:15,14/02/2027 15:15
+2c7cc511-6625-407b-adeb-0bae8fe85793,succeed.world,resell,,,88,16,7,"Sav.com, LLC - 21",14/02/2026 15:15,14/02/2027 15:15
 2c7d68c6-5fe7-45e7-91da-0991bd555b90,hillclimbing.world,available,5.99,,68,2,13,name.com,,
 2caa74d2-efbb-438a-9e52-a590755d5e45,toneup.world,available,5.99,,80,5,7,name.com,,
 2ce18352-1a7b-44e7-8952-de03c83f919b,letoffsteam.world,available,5.99,,76,1,13,name.com,,
@@ -493,7 +493,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 315815e7-205d-44a5-8a87-d2c86ef6bc0e,rarest.world,available,4.49,41.49,56,5,6,namesilo,,
 316d88e3-952f-4ccd-a6d7-92aea65009af,childclass.world,available,5.99,,50,1,11,name.com,,
 316f4925-9760-494c-912e-c2ed8b7a0aa3,cometoanend.world,available,5.99,,62,1,14,name.com,,
-31d77733-b37a-4fc0-9fe2-e8d9846c7565,relevance.world,resell,,,76,12,9,"Sav.com, LLC - 41",23/02/2026 15:15,23/02/2027 15:15
+31d77733-b37a-4fc0-9fe2-e8d9846c7565,relevance.world,resell,,,76,10,9,"Sav.com, LLC - 41",23/02/2026 15:15,23/02/2027 15:15
 31d8548f-8b08-47d7-8bec-a8ae060f1a2b,manysplendored.world,available,5.99,,60,2,15,name.com,,
 31de558a-f895-437e-94de-b1e018f0b883,notalittle.world,available,5.99,,60,1,12,name.com,,
 31ed8f4a-60e3-465f-9c0d-3cabfb204f04,economyclass.world,available,5.99,,66,3,13,name.com,,
