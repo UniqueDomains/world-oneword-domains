@@ -337,6 +337,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 20f34894-17ee-40ae-9d0e-78b6e2a3badf,inspiteofoneself.world,available,5.99,,48,1,19,name.com,,
 20f3a39b-1ff0-4051-a306-c117d23c2544,childdevelopment.world,available,5.99,,48,4,17,name.com,,
 210bbd63-acd9-4329-92e8-c79c59ac1600,getpastoneself.world,available,5.99,,62,0,16,name.com,,
+212df21c-a3dd-4907-a4fb-5610cdbd82c6,makemusic.world,available,4.49,41.49,86,8,10,namesilo,,
 2141fd1f-54cf-4c16-b3d7-91758f4a9cdf,getoveron.world,available,5.99,,72,1,11,name.com,,
 21729997-5e81-4c9a-87cc-1b7bad8becd6,throats.world,available,4.49,41.49,44,2,7,namesilo,,
 21923364-b32c-4fa4-9249-39b479241ee5,backs.world,available,5.99,,56,5,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64cc136b-4c96-4b03-b4f3-37f801660f63,Godknew.world,available,4.49,41.49,60,1,8,namesilo,,
 64d5638e-a699-4bfc-9f39-d90d17025251,birches.world,available,4.49,41.49,57,4,7,namesilo,,
 64e8d7f1-289a-4052-a50d-055bdde59397,ambitions.world,available,4.49,41.49,64,7,9,namesilo,,
-64f01c0a-6d51-401b-a7f2-196bffc50abc,gobonkers.world,available,5.99,,70,1,10,name.com,,
