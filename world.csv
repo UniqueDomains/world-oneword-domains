@@ -230,7 +230,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 176f8260-cdd3-4ae5-a5c0-2b638b7d7eac,touchdowns.world,available,4.49,41.49,57,2,10,namesilo,,
 17743c90-46c5-44a7-8df9-3caeaf585aeb,queried.world,available,5.99,,57,2,7,name.com,,
 1780187d-309e-4008-9c03-c152833ba71c,officeclerk.world,available,5.99,,49,1,12,name.com,,
-17a229ec-f348-4b0c-9cd2-9876bda86f3a,verbs.world,available,5.99,,48,9,5,name.com,,
+17a229ec-f348-4b0c-9cd2-9876bda86f3a,verbs.world,available,5.99,,48,7,5,name.com,,
 17c43cd0-e2dd-468b-9ee2-fc369556ab27,slips.world,available,5.99,,70,10,5,name.com,,
 17d9330d-b93a-47fb-9612-1d159775e676,sucked.world,available,5.99,,54,4,6,name.com,,
 17e3f4c4-b6e8-4d19-b2ab-657e938bb8e5,manyhappies.world,available,5.99,,72,1,12,name.com,,
@@ -366,6 +366,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 235a86a5-2264-4553-abf6-989a18e613cf,letsomethingride.world,available,5.99,,67,1,18,name.com,,
 23721706-0721-4cc4-8bad-f43ad9a98d50,watches.world,resell,,,84,19,7,"Spaceship, Inc.",14/01/2015 16:55,14/01/2027 16:55
 23b51758-6b6b-4d9f-af2d-dea3aa729fdc,leton.world,available,5.99,,76,5,6,name.com,,
+23b62c31-dee6-45b4-bb1a-60f9906767fb,darkages.world,available,4.49,41.49,56,4,9,namesilo,,
 23cc24c2-6521-4bff-a9b8-773b8e5b0ca4,joggingsuit.world,available,5.99,,61,1,12,name.com,,
 23d14d5b-c7e9-45c5-8b0a-98c1f5c1f089,officeroutine.world,available,5.99,,43,0,14,name.com,,
 23d4c90b-c491-4dd2-a35c-520f288a5859,stints.world,available,5.99,,52,3,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64b54cdf-2cbf-469c-bd9d-ebc2d9477031,disappoints.world,available,4.49,41.49,36,1,11,namesilo,,
 64cc136b-4c96-4b03-b4f3-37f801660f63,Godknew.world,available,4.49,41.49,60,1,8,namesilo,,
 64d5638e-a699-4bfc-9f39-d90d17025251,birches.world,available,4.49,41.49,57,4,7,namesilo,,
-64e8d7f1-289a-4052-a50d-055bdde59397,ambitions.world,available,4.49,41.49,64,7,9,namesilo,,
