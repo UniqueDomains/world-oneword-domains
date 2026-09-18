@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-06d4ee4f-ca28-4554-a0cc-ea0cd7032cac,understand.world,resell,,,high,low,10,"DNSPod, Inc.",03/07/2018 08:08,03/07/2026 08:08,
+06d4ee4f-ca28-4554-a0cc-ea0cd7032cac,understand.world,resell,,,high,low,10,"DNSPod, Inc.",03/07/2018 08:08,03/07/2027 08:08,17/09/2026 12:41
 c5fe6820-96e1-426f-8fb8-536886d997e7,abkhazian.world,available,2.98,52.98,low,low,9,namecheap,,,
 cc83ba1d-7565-4c93-9001-45aa89f7c74e,tightenup.world,available,4.49,41.49,medium,low,10,namesilo,,,
 f955a216-f65f-43d8-9958-ac5c47772f4f,apractic.world,available,2.98,52.98,low,low,8,namecheap,,,06/08/2026 09:49
@@ -113,7 +113,7 @@ d646eb82-a96f-4659-aa19-1a0f0128f39b,shared.world,resell,,,high,low,6,"DNSPod, I
 331d2933-ec23-4e2d-bb1a-37f67752cc21,righteous.world,resell,,,high,low,9,"Sav.com, LLC - 8",31/01/2026 15:15,31/01/2027 15:15,
 83d63bde-2b84-47a1-9f31-eba552f7caf6,aegeansea.world,available,2.98,52.98,low,low,10,namecheap,,,
 c3207ec9-a890-4d22-8323-9f60fe60c20e,ColonelSanders.world,available,4.49,41.49,high,low,15,namesilo,,,
-f64b6d57-e36d-40a4-9afa-1af50b3eb619,wonder.world,resell,,,high,medium,6,Dynadot Inc,06/07/2021 13:35,06/07/2026 13:35,
+f64b6d57-e36d-40a4-9afa-1af50b3eb619,wonder.world,resell,,,high,medium,6,Dynadot Inc,06/07/2021 13:35,06/07/2027 13:35,17/09/2026 18:49
 7e2d7973-b94a-4f40-8e09-4610447b9375,astimegoesby.world,available,5.99,,medium,low,15,name.com,,,
 99f4ae31-4336-44ca-9e0e-b62e1494b697,swell.world,resell,,,medium,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",26/01/2025 15:15,26/01/2027 15:15,08/08/2026 12:50
 d0eb6ce3-303e-4681-a6a2-49715bfae15b,abdominous.world,available,2.98,52.98,low,low,10,namecheap,,,
@@ -121,7 +121,7 @@ d0eb6ce3-303e-4681-a6a2-49715bfae15b,abdominous.world,available,2.98,52.98,low,l
 947c4cd5-2499-4369-895e-15534d60cccd,pancreas.world,available,4.49,41.49,medium,low,8,namesilo,,,
 a76a1912-2404-49aa-b04e-c101c560ca85,oilterminal.world,available,4.49,41.49,medium,low,12,namesilo,,,
 3e3da08d-a7e5-43c2-bf4f-f2a9f8fcbcee,treat.world,resell,,,high,low,5,"DNSPod, Inc.",26/07/2018 07:47,26/07/2026 07:47,
-e7254f68-6fd0-43d9-a852-aa82e2cf1c32,moveinto.world,available,4.49,41.49,high,low,9,namesilo,,,
+e7254f68-6fd0-43d9-a852-aa82e2cf1c32,moveinto.world,available,0.98,52.98,low,low,9,namecheap,,,16/09/2026 16:00
 cfd82858-4381-46c5-835e-c8b197441bf2,anoxemic.world,available,2.98,52.98,low,low,8,namecheap,,,
 61a4ff5f-182b-4af6-b4bb-f61b094bf51e,down.world,resell,,,high,low,4,"DNSPod, Inc.",19/04/2018 08:14,19/04/2027 08:14,
 c2f4d4b4-40bf-4e24-a6ac-f419d532aebf,veteran.world,resell,,,high,low,7,"DNSPod, Inc.",26/06/2020 00:52,26/06/2026 00:52,
@@ -380,7 +380,7 @@ b13f5288-3ec1-4405-abd5-987f0b638a94,NewChicago.world,available,5.99,,low,low,11
 096ed58b-2864-4c70-80bb-8d53dcc2c980,treeofsorrow.world,available,5.99,,low,low,14,name.com,,,
 567bb3d7-700d-4aef-a7d8-8b41997cf4a8,StrongCity.world,available,4.49,41.49,low,low,11,namesilo,,,
 311cd858-760e-4668-98b9-cde68beb3c56,goodbet.world,available,4.49,41.49,high,low,8,namesilo,,,
-1dc4d939-3f8f-4f12-a457-49af2229ef97,interesting.world,resell,,,high,low,11,"DNSPod, Inc.",10/07/2023 15:15,10/07/2026 15:15,
+1dc4d939-3f8f-4f12-a457-49af2229ef97,interesting.world,resell,,,high,low,11,"DNSPod, Inc.",10/07/2023 15:15,10/07/2027 15:15,18/09/2026 01:49
 7142cd1e-65a5-4baa-9861-dda4d6739a1d,fallshort.world,available,4.49,41.49,medium,low,10,namesilo,,,
 1b811973-999e-4432-a7ba-c927af4d234d,existence.world,resell,,,high,low,9,"Spaceship, Inc.",22/03/2026 20:48,22/03/2027 20:48,
 1f6bca90-f93d-4e80-917e-29db087c2142,blunt.world,resell,,,medium,low,5,"GoDaddy.com, LLC",30/03/2025 19:31,30/03/2027 19:31,
@@ -484,7 +484,7 @@ c14dbdde-9add-4cb0-a6aa-d0add121dd5f,draw.world,resell,,,high,low,4,"Chengdu Wes
 cfe910a8-1aa4-49f8-ba0d-b90a49487436,hand.world,resell,,,high,low,4,"DNSPod, Inc.",26/07/2018 08:17,26/07/2026 08:17,
 2e11636f-33ec-4c6d-a51e-b0311440e5c7,once.world,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",13/10/2019 01:38,13/10/2026 01:38,
 1570927e-201a-45cc-a9f6-101a17950f70,hairbrush.world,available,5.99,,high,low,10,name.com,,,
-5664a9a9-fd91-41e2-b20c-74a7c6346cc7,hanger.world,resell,,,medium,low,6,"DNSPod, Inc.",02/07/2019 12:36,02/07/2026 12:36,
+5664a9a9-fd91-41e2-b20c-74a7c6346cc7,hanger.world,resell,,,medium,low,6,"DNSPod, Inc.",02/07/2019 12:36,02/07/2027 12:36,17/09/2026 10:12
 bf352ec5-0912-4e4a-948f-0e21cb0c1e4d,criterion.world,available,4.49,41.49,high,low,9,namesilo,,,
 fb2bdeb0-45c9-487d-9767-4efaa99221a0,rainbow.world,resell,,,high,medium,7,"Chengdu West Dimension Digital Technology Co., Ltd.",22/07/2019 20:12,22/07/2026 20:12,
 e2c40480-0d5d-446b-9990-3839235f5713,aphonic.world,available,2.98,52.98,low,low,7,namecheap,,,05/08/2026 23:17
@@ -629,7 +629,7 @@ af6741d4-5f12-4c55-b646-0a10e3981f3c,alittle.world,resell,,,medium,low,8,"Sav.co
 4de29f80-15eb-4b51-80e9-f4d882e0028c,Germanpizza.world,available,5.99,,high,low,12,name.com,,,
 480a88c7-08a8-4c56-9eac-6988ca7b9e8e,underpowered.world,available,4.49,41.49,medium,low,12,namesilo,,,
 dba13629-20fe-4af6-a55b-03f36cd36381,televisionchannel.world,available,4.49,41.49,high,low,18,namesilo,,,
-2dc20323-91f6-4e45-b26e-9728855bd712,positive.world,resell,,,high,low,8,"DNSPod, Inc.",30/06/2018 23:27,30/06/2026 23:27,
+2dc20323-91f6-4e45-b26e-9728855bd712,positive.world,resell,,,high,low,8,"DNSPod, Inc.",30/06/2018 23:27,30/06/2027 23:27,17/09/2026 07:11
 281a9f00-2dc3-438c-8364-b06b6bc26e6c,Godzilla.world,available,,,high,low,8,,,,
 328a8db8-af07-462c-ad60-70e4fd4f94c3,principal.world,resell,,,high,low,9,"DNSPod, Inc.",13/04/2019 20:12,13/04/2027 20:12,
 57dfe077-30ab-4303-ac7a-1ef4a26edfd9,saytheword.world,available,4.49,41.49,low,low,12,namesilo,,,
@@ -721,7 +721,7 @@ ad3bd13a-dec0-4472-ab15-b3494c14d6c7,adolescent.world,available,5.99,57.99,high,
 35d8b7a5-4f03-4139-88f5-6f18f4e72bb6,exclamationmark.world,available,5.99,,medium,low,16,name.com,,,
 172348a2-8bd0-4497-a333-205d8ee5e72b,prevenient.world,available,2.98,52.98,low,low,10,namecheap,,,
 bcb1c3d5-0ce6-4250-bc6c-52b3ffd9d449,notfor.world,available,4.49,41.49,medium,low,7,namesilo,,,
-459026d4-bffc-4e98-be78-e1fa745b54e1,humanities.world,resell,,,high,low,10,"DNSPod, Inc.",06/07/2024 17:00,06/07/2026 17:00,
+459026d4-bffc-4e98-be78-e1fa745b54e1,humanities.world,resell,,,high,low,10,"DNSPod, Inc.",06/07/2024 17:00,06/07/2027 17:00,17/09/2026 19:10
 b7747a17-c880-4055-a20b-ff7a666b3b1d,aleut.world,available,2.98,52.98,low,low,5,namecheap,,,
 82c32f4a-194f-4e45-bf19-a48034098fcc,orangutan.world,available,4.49,41.49,high,low,9,namesilo,,,
 6e1ca9e1-2f85-4225-a663-5c993ef4e3a5,fork.world,resell,,,high,low,4,"DNSPod, Inc.",18/11/2024 15:15,18/11/2026 15:15,
