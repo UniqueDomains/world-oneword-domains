@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .world one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,435 domains · **Median ask:** $5.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-22
 **Canonical page:** `https://unique.domains/domains/tld/world`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| damn.world    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 21                                       |
 | correct.world | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 33                                       |
 | come.world    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                            |
 | tough.world   | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                            |
@@ -75,15 +74,16 @@ print(df.head())
 | bee.world     | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | due.world     | premium   | $82.50    | —             | high           | low    | 3      | name.com                                                |
 | achy.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| clx.world     | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC                                            |
+| boy.world     | resell    | —         | —             | medium         | low    | 3      | Unstoppable Domains Inc                                 |
 | ill.world     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                |
 | ague.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| fin.world     | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
+| clx.world     | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC                                            |
 | mmr.world     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                |
 | awry.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| fix.world     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                                         |
-| fine.world    | premium   | $500      | $500          | high           | low    | 4      | name.com                                                |
+| fin.world     | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
+| fine.world    | premium   | $520      | $520          | medium         | low    | 4      | namecheap                                               |
 | fell.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
+| fix.world     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
