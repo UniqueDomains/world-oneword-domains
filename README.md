@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .world one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,689 domains · **Median ask:** $5.35 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/world`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| correct.world | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 33                                       |
-| come.world    | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                            |
-| ixc.world     | available | $2.98     | $52.98        | low            | low    | 3      | namecheap                                               |
-| bee.world     | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| due.world     | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo                                                |
-| achy.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| boy.world     | resell    | —         | —             | medium         | low    | 3      | Unstoppable Domains Inc                                 |
-| ill.world     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                |
-| ague.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| clx.world     | resell    | —         | —             | low            | low    | 3      | Sav.com, LLC                                            |
-| mmr.world     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                |
-| awry.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| fin.world     | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                        |
-| fine.world    | premium   | $520      | $520          | medium         | low    | 4      | namecheap                                               |
-| fell.world    | available | $2.98     | $52.98        | low            | low    | 4      | namecheap                                               |
-| fix.world     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                                         |
-| canoe.world   | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                |
-| heck.world    | available | $4.49     | $41.49        | medium         | low    | 4      | namesilo                                                |
-| fla.world     | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 40                                       |
-| boxing.world  | premium   | $250      | —             | high           | low    | 6      | name.com                                                |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| ixc.world  | available | $2.98     | $52.98        | medium         | low    | 3      | namecheap                                               |
+| azo.world  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                            |
+| dvd.world  | premium   | $123.75   | —             | high           | low    | 3      | name.com                                                |
+| xci.world  | available | $2.98     | $52.98        | medium         | low    | 3      | namecheap                                               |
+| bar.world  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| flu.world  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| achy.world | available | $2.98     | $52.98        | medium         | low    | 4      | namecheap                                               |
+| bay.world  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                             |
+| ill.world  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| ague.world | available | $2.98     | $52.98        | medium         | low    | 4      | namecheap                                               |
+| bee.world  | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| mmr.world  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                |
+| awny.world | available | $2.98     | $52.98        | medium         | low    | 4      | namecheap                                               |
+| boy.world  | resell    | —         | —             | high           | low    | 3      | Unstoppable Domains Inc                                 |
+| fail.world | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                |
+| awry.world | available | $2.98     | $52.98        | medium         | low    | 4      | namecheap                                               |
+| clx.world  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                            |
+| oslo.world | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                |
+| djia.world | available | $4.49     | $41.49        | high           | low    | 4      | namesilo                                                |
+| die.world  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .WORLD One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
